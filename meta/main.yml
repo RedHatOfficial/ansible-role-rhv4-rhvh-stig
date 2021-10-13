@@ -2,7 +2,7 @@ galaxy_info:
   role_name: rhv4_rhvh_stig
   namespace: redhatofficial
   author: ComplianceAsCode development team
-  description: DRAFT - DISA STIG for Red Hat Virtualization Host (RHVH)
+  description: [DRAFT] DISA STIG for Red Hat Virtualization Host (RHVH)
   company: "Red Hat, Inc."
 
   issue_tracker_url: https://github.com/ComplianceAsCode/content/issues
